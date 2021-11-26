@@ -18,23 +18,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/Nandiniagr/BOOKSPOT--Bookstore-Management-System">
-    <img src="images/logo_bms.PNG" alt="Logo" width="100" height="80">
+  <a href="https://github.com/Nandiniagr/Basic-Banking-System">
+    <img src="images/logo.png" alt="Logo" width="300" height="80">
   </a>
 
-<h3 align="center">PiggyBank</h3>
+
 
   <p align="center">
     - A Basic Banking System
     <br />
-<!--     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+     <a href="https://github.com/Nandiniagr/Basic-Banking-System"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://lnkd.in/efh2-n7N">Visit website</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
+    <a href="https://github.com/Nandiniagr/Basic-Banking-System/issues">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a> -->
+    <a href="https://github.com/Nandiniagr/Basic-Banking-System/issues">Request Feature</a>
   </p>
 </div>
 
@@ -43,9 +43,9 @@
 ## About The Project
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
-<img src="images/main_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/login_bms.PNG" alt="Logo" width="800" height="500">
-<img src="images/dashboard_bms.png" alt="Logo" width="800" height="500">
+<img src="images/homepage.png" alt="Logo" width="1000" height="500">
+<img src="images/send_money.png" alt="Logo" width="1000" height="500">
+<img src="images/transaction_history.png" alt="Logo" width="1000" height="500">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
